@@ -1,0 +1,4 @@
+#/bin/bash
+ENVIRONMENT=$1
+BACKUP_NAME=$2
+DATABASE=analytics
